@@ -7,7 +7,7 @@ import NotFound from "./Pages/NotFound";
 import Products from "./Pages/Products";
 import Home from "./Pages/Home";
 import ProductDetails from './Pages/ProductDetails';
-import ProductForm from './Pages/ProductForm';
+import ProductForm from './PagesProductForm';
 
 import { getAllProducts } from "./api/productAPI";
 

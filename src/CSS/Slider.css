@@ -1,0 +1,22 @@
+.slider-wrapper {
+    padding: 20px; /* Add padding around the slider */
+    margin: 20px auto; /* Add margin around the slider */
+    max-width: 80%; /* Optionally limit the maximum width */
+  }
+  
+  .carousel .carousel-item {
+    height: 500px; /* Set a fixed height for the carousel items */
+  }
+  
+  .carousel .carousel-item img {
+    height: 100%;
+    object-fit: cover; /* Ensure the image covers the entire area without stretching */
+    border-radius: 10px; /* Optional: add rounded corners to the images */
+  }
+  
+  .carousel-caption {
+    background-color: rgba(0, 0, 0, 0.5); /* Add a semi-transparent background to the caption */
+    padding: 10px;
+    border-radius: 5px;
+  }
+  
