@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Watch",
+      "price": 1500,
+      "quantity": 50
+    },
+    {
+      "id": "2",
+      "name": "Book",
+      "price": 200,
+      "quantity": 30
+    },
+    {
+      "id": "3",
+      "name": "Dress",
+      "price": 600,
+      "quantity": 20
+    },
+    {
+      "id": "4",
+      "name": "Mobile",
+      "price": 5000,
+      "quantity": 100
+    }
+  ]
+}
